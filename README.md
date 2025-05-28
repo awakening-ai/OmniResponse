@@ -1,17 +1,11 @@
 <div align="center">
 
   <!-- Main Title -->
-  <h1>OmniResponse</h1>
-  <br/>
 
-  <!-- Logo -->
-  <img src="docs/omniresponse-logo.png" alt="OmniResponse Logo" width="166"/>
-  <br/><br/>
 
   <!-- Subtitle -->
   <h3>
-    <strong>OmniResponse:</strong>
-    Online Multimodal Conversational Response Generation in Dyadic Interactions
+    OmniResponse: Online Multimodal Conversational Response Generation in Dyadic Interactions
   </h3>
   <br/>
 
@@ -32,6 +26,11 @@
     <sup>3</sup> Awakening AI
   </p>
   <br/>
+
+
+  <!-- Logo -->
+  <img src="docs/omniresponse-logo.png" alt="OmniResponse Logo" width="300"/>
+  <br/><br/>
 
   <!-- Webpage Badge -->
   <p>
