@@ -5,7 +5,7 @@
   <br/>
 
   <!-- Logo -->
-  <img src="docs/OmniResponse_logo.png" alt="OmniResponse Logo" width="166"/>
+  <img src="docs/omniresponse-logo" alt="OmniResponse Logo" width="166"/>
   <br/><br/>
 
   <!-- Subtitle -->
