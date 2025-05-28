@@ -4,9 +4,9 @@
 
 
   <!-- Subtitle -->
-  <h3>
+  <h2>
     OmniResponse: Online Multimodal Conversational Response Generation in Dyadic Interactions
-  </h3>
+  </h2>
   <br/>
 
   <!-- Authors -->
