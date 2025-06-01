@@ -40,7 +40,15 @@
         alt="Webpage: OmniResponse"
       />
     </a>
+      <a href="https://arxiv.org/abs/2505.21724">
+      <img
+        src="https://img.shields.io/badge/arXiv-2505.21724-B31B1B?logo=arxiv"
+        alt="arXiv: 2505.21724"
+      />
+    </a>
   </p>
+
+
 
 </div>
 
@@ -53,7 +61,7 @@
 <section id="todo">
   <h2>📝 TODO</h2>
   <ul>
-    <li>✅ Publish the OmniResponse paper</li>
+    <li>✅ Release the OmniResponse paper</li>
     <li>🔲 Release the dataset</li>
     <li>▢ Release the inference code</li>
     <li>▢ Release the rendering code and pretrained models</li>
