@@ -47,7 +47,7 @@
       />
     </a>
     </a>
-      <a href="https://huggingface.co/datasets/awakening-ai/ReactNet">
+    <a href="https://huggingface.co/datasets/awakening-ai/ReactNet" target="_blank" rel="noopener">
       <img
         src="https://img.shields.io/badge/Dataset-ReactNet-orange.svg?logo=HuggingFace"
         alt="Dataset: ReactNet"
