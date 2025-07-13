@@ -69,7 +69,7 @@
   <h2>📝 TODO</h2>
   <ul>
     <li>✅ Release the OmniResponse paper</li>
-    <li>🔲 Release the dataset</li>
+    <li>✅ Release the dataset</li>
     <li>▢ Release the inference code</li>
     <li>▢ Release the rendering code and pretrained models</li>
     <li>▢ Provide model checkpoints for various LLM backbones</li>
