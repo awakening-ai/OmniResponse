@@ -46,6 +46,13 @@
         alt="arXiv: 2505.21724"
       />
     </a>
+    </a>
+      <a href="https://huggingface.co/datasets/awakening-ai/ReactNet">
+      <img
+        src="https://img.shields.io/badge/Dataset-ReactNet-orange.svg?logo=HuggingFace"
+        alt="Dataset: ReactNet"
+      />
+    </a>
   </p>
 
 
