@@ -129,7 +129,19 @@
 <!-- 🖊️ Citation -->
 <section id="citation">
   <h2>🖊️ Citation</h2>
-  <!-- TODO: Provide BibTeX entries for your papers -->
+
+If this work helps in your research, please cite the following papers:
+
+```bibtex
+  @article{luo2025omniresponse,
+    title={OmniResponse: Online Multimodal Conversational Response Generation in Dyadic Interactions},
+    author={Luo, Cheng and Wang, Jianghui and Li, Bing and Song, Siyang and Ghanem, Bernard},
+    journal={arXiv preprint arXiv:2505.21724},
+    year={2025}
+  }}
+
+```
+  
 </section>
 
 <!-- 🤝 Acknowledgements -->
