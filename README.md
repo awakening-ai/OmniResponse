@@ -1,7 +1,14 @@
 <div align="center">
 
   <!-- Main Title -->
-
+  <!-- Title Claim Badge -->
+  <p style="margin: 0.5rem 0;">
+    <img
+      src="https://img.shields.io/badge/NeurIPS-2025-0B612C.svg"
+      alt="NeurIPS 2025"
+      style="vertical-align: middle;"
+    />
+  </p>
 
   <!-- Subtitle -->
   <h2>
@@ -27,12 +34,11 @@
   </p>
   <br/>
 
-
   <!-- Logo -->
   <img src="docs/omniresponse-logo.png" alt="OmniResponse Logo" width="300"/>
   <br/><br/>
 
-  <!-- Webpage Badge -->
+  <!-- Webpage & Badges -->
   <p>
     <a href="https://omniresponse.github.io/">
       <img
@@ -40,12 +46,11 @@
         alt="Webpage: OmniResponse"
       />
     </a>
-      <a href="https://arxiv.org/abs/2505.21724">
+    <a href="https://arxiv.org/abs/2505.21724">
       <img
         src="https://img.shields.io/badge/arXiv-2505.21724-B31B1B?logo=arxiv"
         alt="arXiv: 2505.21724"
       />
-    </a>
     </a>
     <a href="https://huggingface.co/datasets/awakening-ai/ReactNet" target="_blank" rel="noopener">
       <img
@@ -55,14 +60,14 @@
     </a>
   </p>
 
-
-
 </div>
 
 <!-- 📢 News -->
 <section id="news">
   <h2>📢 News</h2>
-  <!-- TODO: Add project announcements, updates, and release notes -->
+  <ul>
+    <li><strong>Sep 28, 2025</strong> — 🎉 Our paper <em>OmniResponse</em> has been <strong>accepted to NeurIPS 2025</strong>!</li>
+  </ul>
 </section>
 
 <section id="todo">
@@ -76,7 +81,6 @@
     <li>▢ Release the training code</li>
   </ul>
 </section>
-
 
 <!-- 📋 Table of Contents -->
 <section id="contents">
@@ -133,20 +137,9 @@
 If this work helps in your research, please cite the following papers:
 
 ```bibtex
-  @article{luo2025omniresponse,
-    title={OmniResponse: Online Multimodal Conversational Response Generation in Dyadic Interactions},
-    author={Luo, Cheng and Wang, Jianghui and Li, Bing and Song, Siyang and Ghanem, Bernard},
-    journal={arXiv preprint arXiv:2505.21724},
-    year={2025}
-  }}
-
-```
-  
-</section>
-
-<!-- 🤝 Acknowledgements -->
-<section id="acknowledgements">
-  <h2>🤝 Acknowledgements</h2>
-  <!-- TODO: Thank collaborators and list open‐source dependencies -->
-</section>
-
+@article{luo2025omniresponse,
+  title   = {OmniResponse: Online Multimodal Conversational Response Generation in Dyadic Interactions},
+  author  = {Luo, Cheng and Wang, Jianghui and Li, Bing and Song, Siyang and Ghanem, Bernard},
+  journal = {arXiv preprint arXiv:2505.21724},
+  year    = {2025}
+}
