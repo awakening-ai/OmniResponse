@@ -54,7 +54,7 @@
     </a>
     <a href="https://huggingface.co/datasets/awakening-ai/ResponseNet" target="_blank" rel="noopener">
       <img
-        src="https://img.shields.io/badge/Dataset-ReactNet-orange.svg?logo=HuggingFace"
+        src="https://img.shields.io/badge/Dataset-ResponseNet-orange.svg?logo=HuggingFace"
         alt="Dataset: ResponseNet"
       />
     </a>
