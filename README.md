@@ -66,7 +66,7 @@
 <section id="news">
   <h2>📢 News</h2>
   <ul>
-    <li><strong>Sep 28, 2025</strong> — 🎉 Our paper <em>OmniResponse</em> has been <strong>accepted to NeurIPS 2025</strong>!</li>
+    <li><strong>Sep, 2025</strong> — 🎉 Our paper <em>OmniResponse</em> has been <strong>accepted to NeurIPS 2025</strong>!</li>
   </ul>
 </section>
 
