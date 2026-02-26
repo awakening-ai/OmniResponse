@@ -1,1 +1,0 @@
-python utmosv2_avg.py --wav-dir your-audio-dir
