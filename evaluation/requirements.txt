@@ -1,0 +1,26 @@
+###############################################################################
+# Core environment for text and audio evaluation
+#
+# This file is intentionally version-light so that you can resolve versions
+# according to your local CUDA / platform constraints (especially for torch).
+###############################################################################
+
+##########
+# Text metrics
+##########
+tqdm
+nltk
+numpy
+bert-score
+
+##########
+# Audio quality (UTMOSv2) and dependencies
+##########
+torch          # choose CPU/GPU build as appropriate for your system
+torchaudio
+transformers
+timm
+librosa
+scipy
+torchvision
+
