@@ -24,6 +24,13 @@ fi
 echo "Cloning SyncNet repository from ${REPO_URL} ..."
 git clone --depth 1 "${REPO_URL}" "${TARGET_DIR}"
 
+# Apply NumPy compatibility fix: np.int was removed in NumPy 1.24+
+BOX_UTILS="${TARGET_DIR}/detectors/s3fd/box_utils.py"
+if [ -f "${BOX_UTILS}" ]; then
+  sed 's/\.astype(np\.int)/.astype(int)/' "${BOX_UTILS}" > "${BOX_UTILS}.tmp" && mv "${BOX_UTILS}.tmp" "${BOX_UTILS}"
+  echo "Applied NumPy compatibility fix to detectors/s3fd/box_utils.py"
+fi
+
 echo "Done. Local copy of syncnet_python is now available at:"
 echo "  ${TARGET_DIR}"
 
